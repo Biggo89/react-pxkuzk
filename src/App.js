@@ -5,8 +5,8 @@ import Ex from './components/Expenses';
 export default function App() {
   const array = [
     { amount: 123, title: 'first' },
-    { amount: 12, title: 'second' },
-    { amount: 34, title: 'third' },
+    // { amount: 12, title: 'second' },
+    // { amount: 34, title: 'third' },
   ];
   return (
     <div>
